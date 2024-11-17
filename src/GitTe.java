@@ -3,5 +3,6 @@ public class GitTe {
         System.out.println("Hello World");
         System.out.printf("111");
         System.out.printf("222");
+        System.out.printf("woshidiyi");
     }
 }
