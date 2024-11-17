@@ -1,3 +1,5 @@
+package lec2;
+
 public class Dog {
 
     public int weightInPounds;
